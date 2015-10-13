@@ -152,4 +152,5 @@ def minimos_conflictos(gr, rep=100):
     #   Implementar el algoritmo de minimos conflictos
     #   y probarlo con las n-reinas
     #================================================
+    #Prueba...
     raise NotImplementedError("Minimos conflictos  a implementar")
